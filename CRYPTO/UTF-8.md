@@ -1,6 +1,6 @@
 ## UTF-8
 
-### Khi mà chúng ta thực hiện thao tác View source code chúng ta hay thấy có một dòng sẽ có ghi “UTF-8”. Chúng ta sẽ thắc mắc nó là gì? Vì vậy hôm nay mình xin giới thiệu tới mọi người UTF-8, bước khởi đầu để bạn khám phá ngành Công nghệ thông tin.
+> Khi mà chúng ta thực hiện thao tác View source code chúng ta hay thấy có một dòng sẽ có ghi “UTF-8”. Chúng ta sẽ thắc mắc nó là gì? Vì vậy hôm nay mình xin giới thiệu tới mọi người UTF-8, bước khởi đầu để bạn khám phá ngành Công nghệ thông tin.
 
 👍 UTF-8 là gì?
 
