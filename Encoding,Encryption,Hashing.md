@@ -20,7 +20,7 @@ Chuyển đổi dữ liệu thành một dạng dữ liệu để đảm bảo d
 
 Vì Encoding chuyển đổi dữ liệu sang một format khác sử dụng các biểu đồ có sẵn được public trên mạng do đó nó có thể hoàn toàn dịch ngược được mà không cần sử dụng bất kì key nào để dịch decode mà chỉ cần thuật toán encode nó.
 
-2. ENCRYPTION 
+#### 2. ENCRYPTION 
 
 Encryption là phương pháp để biến thông tin (phim ảnh, văn bản, hình ảnh….) từ định dạng bình thường sang dạng thông tin không thể hiểu được nếu không có phương tiện giải mã
 
