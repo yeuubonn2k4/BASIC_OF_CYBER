@@ -24,3 +24,8 @@ https://rumkin.com/tools/cipher/caesar/
 
 ![image](https://github.com/yeuubonn2k4/BASIC_OF_CYBER/assets/161863346/bd9da785-a374-4cc2-9859-7a6704389c05)
 
+> ROT13 chỉ là mật mã Caesar có khóa là 13 (n=13)
+
+https://rumkin.com/tools/cipher/rot13/
+
+![image](https://github.com/yeuubonn2k4/BASIC_OF_CYBER/assets/161863346/2f4d4436-c742-44d3-8b2a-4769ec57cdda)
